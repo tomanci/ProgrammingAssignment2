@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Hi, this is the script and it contains 2 functions. The first one makeCacheMatrix, store the inverse of my matrix,
+## while the second one activaly calculate the inverse, using solve function
 
 ## Here, this first function has the goal to store our object(matrix). makeCacheMatrix should be given back
 ## the matrix inverse to the users when they call it in the function below.
